@@ -283,13 +283,13 @@ export default function DigitalSummerCampWebsite() {
           <div className="rounded-[2rem] bg-white/10 border border-white/10 p-8">
             <Phone className="w-9 h-9 text-cyan-300 mb-4" />
             <h3 className="text-xl font-bold">Telefoni</h3>
-            <p className="text-slate-300 mt-2">+383 44 000 000</p>
+            <p className="text-slate-300 mt-2">+383 45397952</p>
           </div>
 
           <div className="rounded-[2rem] bg-white/10 border border-white/10 p-8">
             <Mail className="w-9 h-9 text-cyan-300 mb-4" />
             <h3 className="text-xl font-bold">Email</h3>
-            <p className="text-slate-300 mt-2">info@digitalsummercamp.com</p>
+            <p className="text-slate-300 mt-2">yybellopoja10@gmail.com</p>
           </div>
         </div>
       </section>
